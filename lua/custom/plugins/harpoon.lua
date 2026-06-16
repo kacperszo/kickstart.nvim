@@ -1,4 +1,4 @@
--- https://github.com/ThePrimeagen/harpoon (200k+ stars)
+-- https://github.com/ThePrimeagen/harpoon
 -- Quick file pinning and switching — replaces Ctrl+Tab muscle memory
 return {
   'ThePrimeagen/harpoon',
